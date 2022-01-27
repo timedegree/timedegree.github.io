@@ -21,6 +21,11 @@
       </categories>
   </entry>
   <entry>
+    <title>编码笔记</title>
+    <url>/2022/01/27/%E7%BC%96%E7%A0%81%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>离散数学</title>
     <url>/2022/01/27/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/</url>
     <content><![CDATA[<h1 id="第一章-逻辑与证明"><a href="#第一章-逻辑与证明" class="headerlink" title="第一章 逻辑与证明"></a>第一章 逻辑与证明</h1><h2 id="1-1-命题逻辑"><a href="#1-1-命题逻辑" class="headerlink" title="1.1 命题逻辑"></a>1.1 命题逻辑</h2><h3 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h3><p>逻辑规则给出数学语句的准确含义，并且用以区分数学论证的有效或无效。</p>
@@ -40,11 +45,11 @@
 <p>若一个命题无法再用更简单的命题来表示，则称其为<strong>原子命题</strong>。而由已知命题通过<strong>逻辑运算符</strong>组合而来的新命题称为<strong>复合命题</strong></p>
 <hr>
 <h4 id="定义2"><a href="#定义2" class="headerlink" title="定义2"></a>定义2</h4><p>令$p$为一命题，则$p$的否定记为$\neg p$,指“不是所指$p$的情形”，命题$\neg p$读做“非$p$”，$\neg p$的真值和$p$的真值相反。</p>
-<h5 id="命题否定的真值表"><a href="#命题否定的真值表" class="headerlink" title="命题否定的真值表"></a>命题否定的真值表</h5><p><img src="/.com//离散数学\zzb1.png" alt="真值表1"></p>
+<h5 id="命题否定的真值表"><a href="#命题否定的真值表" class="headerlink" title="命题否定的真值表"></a>命题否定的真值表</h5><p><img src="..\images\zzb1.png" alt="真值表1"></p>
 <h4 id="定义3"><a href="#定义3" class="headerlink" title="定义3"></a>定义3</h4><p>令$p$和$q$为命题。$p$、$q$的合取即为命题“$p$并且$q$”，记作$p\wedge q$。当p和q都为真值时，命题$p\wedge q$为真，否则为假。</p>
-<h5 id="命题合取的真值表"><a href="#命题合取的真值表" class="headerlink" title="命题合取的真值表"></a>命题合取的真值表</h5><p><img src="/.com//离散数学\zzb2.png" alt="真值表2"></p>
+<h5 id="命题合取的真值表"><a href="#命题合取的真值表" class="headerlink" title="命题合取的真值表"></a>命题合取的真值表</h5><p><img src="..\images\zzb2.png" alt="真值表2"></p>
 <h4 id="定义3-1"><a href="#定义3-1" class="headerlink" title="定义3"></a>定义3</h4><p>令$p$和$q$为命题。$p$、$q$的析取即为命题“$p$或$q$”，记作$p\vee q$。当p和q都为假值时，命题$p\vee q$为假，否则为真。</p>
-<h5 id="命题析取的真值表"><a href="#命题析取的真值表" class="headerlink" title="命题析取的真值表"></a>命题析取的真值表</h5><p><img src="/.com//离散数学\zzb3.png" alt="真值表3"></p>
+<h5 id="命题析取的真值表"><a href="#命题析取的真值表" class="headerlink" title="命题析取的真值表"></a>命题析取的真值表</h5><p><img src="..\images\zzb3.png" alt="真值表3"></p>
 ]]></content>
       <categories>
         <category>学习</category>
@@ -53,10 +58,5 @@
         <tag>数学</tag>
         <tag>计算机</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>编码笔记</title>
-    <url>/2022/01/27/%E7%BC%96%E7%A0%81%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[]]></content>
   </entry>
 </search>
