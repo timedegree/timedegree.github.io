@@ -51,7 +51,10 @@
 <h5 id="命题合取的真值表"><a href="#命题合取的真值表" class="headerlink" title="命题合取的真值表"></a>命题合取的真值表</h5><p><img src="https://s3.bmp.ovh/imgs/2022/01/3d619ab539e352e9.png" alt="真值表2"></p>
 <h4 id="定义3-1"><a href="#定义3-1" class="headerlink" title="定义3"></a>定义3</h4><p>令$p$和$q$为命题。$p$、$q$的析取即为命题“$p$或$q$”，记作$p\vee q$。当p和q都为假值时，命题$p\vee q$为假，否则为真。</p>
 <h5 id="命题析取的真值表"><a href="#命题析取的真值表" class="headerlink" title="命题析取的真值表"></a>命题析取的真值表</h5><p><img src="https://s3.bmp.ovh/imgs/2022/01/46a50e92c0a198ea.png" alt="真值表3"></p>
-]]></content>
+<h1 id="对应章节的视频"><a href="#对应章节的视频" class="headerlink" title="对应章节的视频"></a>对应章节的视频</h1><h2 id="第一节"><a href="#第一节" class="headerlink" title="第一节"></a>第一节</h2><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe 
+src="//player.bilibili.com/player.html?aid=721603045&bvid=BV1tS4y1d7er&cid=438040140&page=1" scrolling="no" border="0" 
+frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; 
+height: 100%; left: 0; top: 0;"> </iframe></div>]]></content>
       <categories>
         <category>笔记</category>
       </categories>
