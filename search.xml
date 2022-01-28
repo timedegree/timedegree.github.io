@@ -45,12 +45,16 @@
 <p>我们习惯用字母来表示<strong>命题变量</strong>(或称为<strong>语句变量</strong>)，即表示命题的变量，就和用字母表示数值变量那样。如果一个命题为真，则它的真值为真(用T表示)；反之，则其真值为假(用F表示)。</p>
 <p>若一个命题无法再用更简单的命题来表示，则称其为<strong>原子命题</strong>。而由已知命题通过<strong>逻辑运算符</strong>组合而来的新命题称为<strong>复合命题</strong></p>
 <hr>
-<h4 id="定义2"><a href="#定义2" class="headerlink" title="定义2"></a>定义2</h4><p>令$p$为一命题，则$p$的否定记为$\neg p$,指“不是所指$p$的情形”，命题$\neg p$读做“非$p$”，$\neg p$的真值和$p$的真值相反。</p>
+<h3 id="1-1-2-逻辑运算符"><a href="#1-1-2-逻辑运算符" class="headerlink" title="1.1.2 逻辑运算符"></a>1.1.2 逻辑运算符</h3><h4 id="定义2"><a href="#定义2" class="headerlink" title="定义2"></a>定义2</h4><p>令$p$为一命题，则$p$的否定记为$\neg p$,指“不是所指$p$的情形”，命题$\neg p$读做“非$p$”，$\neg p$的真值和$p$的真值相反。</p>
 <h5 id="命题否定的真值表"><a href="#命题否定的真值表" class="headerlink" title="命题否定的真值表"></a>命题否定的真值表</h5><p><img src="https://s3.bmp.ovh/imgs/2022/01/8bc13ac7a3e6a2dd.png" alt="真值表1"></p>
 <h4 id="定义3"><a href="#定义3" class="headerlink" title="定义3"></a>定义3</h4><p>令$p$和$q$为命题。$p$、$q$的合取即为命题“$p$并且$q$”，记作$p\wedge q$。当p和q都为真值时，命题$p\wedge q$为真，否则为假。</p>
 <h5 id="命题合取的真值表"><a href="#命题合取的真值表" class="headerlink" title="命题合取的真值表"></a>命题合取的真值表</h5><p><img src="https://s3.bmp.ovh/imgs/2022/01/3d619ab539e352e9.png" alt="真值表2"></p>
-<h4 id="定义3-1"><a href="#定义3-1" class="headerlink" title="定义3"></a>定义3</h4><p>令$p$和$q$为命题。$p$、$q$的析取即为命题“$p$或$q$”，记作$p\vee q$。当p和q都为假值时，命题$p\vee q$为假，否则为真。</p>
+<h4 id="定义3-1"><a href="#定义3-1" class="headerlink" title="定义3"></a>定义3</h4><p>令$p$和$q$为命题。$p$、$q$的析取即为命题“$p$或$q$”，记作$p\vee q$。当$p$和$q$都为假值时，命题$p\vee q$为假，否则为真。</p>
 <h5 id="命题析取的真值表"><a href="#命题析取的真值表" class="headerlink" title="命题析取的真值表"></a>命题析取的真值表</h5><p><img src="https://s3.bmp.ovh/imgs/2022/01/46a50e92c0a198ea.png" alt="真值表3"></p>
+<h4 id="定义4"><a href="#定义4" class="headerlink" title="定义4"></a>定义4</h4><p>令$p$和$q$为命题。$p$、$q$的异或记作$p\oplus q$，也可称为“$p$或者$q$，但与析取有所不同”。当$p$和$q$中恰有一个为真时，命题$p\oplus q$为真，否则为假。</p>
+<h5 id="命题异或的真值表"><a href="#命题异或的真值表" class="headerlink" title="命题异或的真值表"></a>命题异或的真值表</h5><p><img src="https://s3.bmp.ovh/imgs/2022/01/fb002631ba42d1ff.png" alt="真值表"></p>
+<hr>
+<h3 id="1-1-3-条件语句"><a href="#1-1-3-条件语句" class="headerlink" title="1.1.3 条件语句"></a>1.1.3 条件语句</h3><h4 id="定义5"><a href="#定义5" class="headerlink" title="定义5"></a>定义5</h4><hr>
 <h1 id="对应章节的视频"><a href="#对应章节的视频" class="headerlink" title="对应章节的视频"></a>对应章节的视频</h1><h2 id="第一节"><a href="#第一节" class="headerlink" title="第一节"></a>第一节</h2><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe 
 src="//player.bilibili.com/player.html?aid=721603045&bvid=BV1tS4y1d7er&cid=438040140&page=1" scrolling="no" border="0" 
 frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; 
