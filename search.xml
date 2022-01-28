@@ -4,13 +4,14 @@
     <title>(๑◝ᴗ◜๑) Hi!</title>
     <url>/2022/01/26/%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D/</url>
     <content><![CDATA[<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h1><p>这里是时度度（Time_Degree）的个人博客哦,会放一些笔记,日常什么杂七杂八的东西。当然会是随机更新，随时咕咕_(:з」∠)_。</p>
-<h1 id="感兴趣的内容"><a href="#感兴趣的内容" class="headerlink" title="感兴趣的内容"></a>感兴趣的内容</h1><ul>
+<h1 id="感兴趣的事情"><a href="#感兴趣的事情" class="headerlink" title="感兴趣的事情"></a>感兴趣的事情</h1><ul>
 <li>数学与计算机科学</li>
 <li>各类游戏</li>
-<li>看番(目前最爱的是物语系列)</li>
+<li>看番</li>
+<li>摸鱼(<del>人生来就是为了摸鱼的</del>)</li>
 </ul>
 <hr>
-<h1 id="目前在看的书"><a href="#目前在看的书" class="headerlink" title="目前在看的书"></a>目前在看的书</h1><ul>
+<h1 id="在看的书"><a href="#在看的书" class="headerlink" title="在看的书"></a>在看的书</h1><ul>
 <li>《编码》</li>
 <li>《离散数学及其运用》</li>
 </ul>
@@ -19,11 +20,6 @@
       <categories>
         <category>生活</category>
       </categories>
-  </entry>
-  <entry>
-    <title>编码笔记</title>
-    <url>/2022/01/27/%E7%BC%96%E7%A0%81%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<h2 id="暂无记录"><a href="#暂无记录" class="headerlink" title="暂无记录"></a>暂无记录</h2>]]></content>
   </entry>
   <entry>
     <title>离散数学</title>
@@ -45,7 +41,7 @@
 <p>我们习惯用字母来表示<strong>命题变量</strong>(或称为<strong>语句变量</strong>)，即表示命题的变量，就和用字母表示数值变量那样。如果一个命题为真，则它的真值为真(用T表示)；反之，则其真值为假(用F表示)。</p>
 <p>若一个命题无法再用更简单的命题来表示，则称其为<strong>原子命题</strong>。而由已知命题通过<strong>逻辑运算符</strong>组合而来的新命题称为<strong>复合命题</strong></p>
 <hr>
-<h3 id="1-1-2-逻辑运算符"><a href="#1-1-2-逻辑运算符" class="headerlink" title="1.1.2 逻辑运算符"></a>1.1.2 逻辑运算符</h3><h4 id="定义2"><a href="#定义2" class="headerlink" title="定义2"></a>定义2</h4><p>令$p$为一命题，则$p$的否定记为$\neg p$,指“不是所指$p$的情形”，命题$\neg p$读做“非$p$”，$\neg p$的真值和$p$的真值相反。</p>
+<h3 id="1-1-2-逻辑运算符"><a href="#1-1-2-逻辑运算符" class="headerlink" title="1.1.2 逻辑运算符"></a>1.1.2 逻辑运算符</h3><h4 id="定义2"><a href="#定义2" class="headerlink" title="定义2"></a>定义2</h4><p>令$p$为一命题，则$p$的否定记为‘$\neg p$,指“不是所指$p$的情形”，命题$\neg p$读做“非$p$”，$\neg p$的真值和$p$的真值相反。</p>
 <h5 id="命题否定的真值表"><a href="#命题否定的真值表" class="headerlink" title="命题否定的真值表"></a>命题否定的真值表</h5><p><img src="https://s3.bmp.ovh/imgs/2022/01/8bc13ac7a3e6a2dd.png" alt="真值表1"></p>
 <h4 id="定义3"><a href="#定义3" class="headerlink" title="定义3"></a>定义3</h4><p>令$p$和$q$为命题。$p$、$q$的合取即为命题“$p$并且$q$”，记作$p\wedge q$。当p和q都为真值时，命题$p\wedge q$为真，否则为假。</p>
 <h5 id="命题合取的真值表"><a href="#命题合取的真值表" class="headerlink" title="命题合取的真值表"></a>命题合取的真值表</h5><p><img src="https://s3.bmp.ovh/imgs/2022/01/3d619ab539e352e9.png" alt="真值表2"></p>
@@ -59,6 +55,33 @@
 src="//player.bilibili.com/player.html?aid=721603045&bvid=BV1tS4y1d7er&cid=438040140&page=1" scrolling="no" border="0" 
 frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; 
 height: 100%; left: 0; top: 0;"> </iframe></div>]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+      <tags>
+        <tag>数学</tag>
+        <tag>计算机</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>编码の笔记</title>
+    <url>/2022/01/27/%E7%BC%96%E7%A0%81%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<h1 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h1><h2 id="编码-code"><a href="#编码-code" class="headerlink" title="编码(code):"></a>编码(code):</h2><ol>
+<li>一种在信息传输过程中用来表述字母或数字的信号系统</li>
+<li>由被赋予了一定主观意义的符号、字母以及单词所组成的系统，该系统可用于传输需要保密或简短的信息</li>
+<li>一种由若干符号和规则组成的系统，用来向计算机表述指令</li>
+</ol>
+<span id="more"></span>
+<hr>
+<h1 id="第一章-至亲密友"><a href="#第一章-至亲密友" class="headerlink" title="第一章 至亲密友"></a>第一章 至亲密友</h1><h2 id="导入"><a href="#导入" class="headerlink" title="导入"></a>导入</h2><p>考虑这样一个情形，你的好朋友就住在街的对面，在夜晚时，父母催促你们上床睡觉了，但你们还是希望和对方交流想法，<del>谁不喜欢大晚上扯淡呢</del>，并且你们没有类似手机电脑这种可以用来交流的设备。</p>
+<p>如果是在灯还亮着的时候，还可以通过手部动作来交流，但一旦父母将灯关了，这种交流也就只能停止。所以你们想到了通过手电筒来交流的方式。</p>
+<p>这是个很理想的选择，手电筒的光高度定向且不会发出声响，可以避免被家人发现。</p>
+<p>那么通过手电筒，你们该如何交流呢？</p>
+<hr>
+<h2 id="方法"><a href="#方法" class="headerlink" title="方法"></a>方法</h2><ol>
+<li>你们最初想到的方法是:打开手电筒的灯光，然后站在窗户边用光</li>
+</ol>
+]]></content>
       <categories>
         <category>笔记</category>
       </categories>
