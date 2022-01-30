@@ -37,9 +37,9 @@
 <li>$x+1=y$。</li>
 <li>$z+x=1$。</li>
 </ol>
-<p>语句1不为命题，因为其不为陈述语句。<br>语句2和3不为命题，是为其非真且非假。但若我们给其中的变量赋值，那么语句2和3可以称为命题。</p>
+<p>语句1不为命题，因为其不为陈述语句。<br>语句2和3不为命题，是因为其非真且非假。但若我们给其中的变量赋值，那么语句2和3可以称为命题。</p>
 <p>我们习惯用字母来表示<strong>命题变量</strong>(或称为<strong>语句变量</strong>)，即表示命题的变量，就和用字母表示数值变量那样。如果一个命题为真，则它的真值为真(用T表示)；反之，则其真值为假(用F表示)。</p>
-<p>若一个命题无法再用更简单的命题来表示，则称其为<strong>原子命题</strong>。而由已知命题通过<strong>逻辑运算符</strong>组合而来的新命题称为<strong>复合命题</strong></p>
+<p>若一个命题无法再用更简单的命题来表示，则称其为<strong>原子命题</strong>。而由已知命题通过<strong>逻辑运算符</strong>组合而来的新命题称为<strong>复合命题</strong>。</p>
 <hr>
 <h3 id="1-1-2-逻辑运算符"><a href="#1-1-2-逻辑运算符" class="headerlink" title="1.1.2 逻辑运算符"></a>1.1.2 逻辑运算符</h3><h4 id="定义2"><a href="#定义2" class="headerlink" title="定义2"></a>定义2</h4><p>令$p$为一命题，则$p$的否定记为‘$\neg p$,指“不是所指$p$的情形”，命题$\neg p$读做“非$p$”，$\neg p$的真值和$p$的真值相反。</p>
 <h5 id="命题否定的真值表"><a href="#命题否定的真值表" class="headerlink" title="命题否定的真值表"></a>命题否定的真值表</h5><p><img src="https://s3.bmp.ovh/imgs/2022/01/8bc13ac7a3e6a2dd.png" alt="真值表1"></p>
@@ -54,7 +54,31 @@
 <h1 id="对应章节的视频"><a href="#对应章节的视频" class="headerlink" title="对应章节的视频"></a>对应章节的视频</h1><h2 id="第一节"><a href="#第一节" class="headerlink" title="第一节"></a>第一节</h2><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe 
 src="//player.bilibili.com/player.html?aid=721603045&bvid=BV1tS4y1d7er&cid=438040140&page=1" scrolling="no" border="0" 
 frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; 
-height: 100%; left: 0; top: 0;"> </iframe></div>]]></content>
+height: 100%; left: 0; top: 0;"> </iframe></div>
+
+<hr>
+<h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料:"></a>参考资料:</h1><ul>
+<li>《离散数学及其运用》 Kenneth·H·Rosen</li>
+<li>《数理逻辑导引》 冯琦</li>
+</ul>
+]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+      <tags>
+        <tag>数学</tag>
+        <tag>计算机</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>coq学习笔记</title>
+    <url>/2022/01/30/coq%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<p>从<a href="https://space.bilibili.com/470481361/?spm_id_from=333.999.0.0">99</a>那听说了coq这一函数式编程语言，故拿此页面用以做笔记。</p>
+<hr>
+<h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><ul>
+<li><a href="https://coq-zh.github.io/SF-zh/">Software Foundation</a></li>
+</ul>
+]]></content>
       <categories>
         <category>笔记</category>
       </categories>
@@ -79,7 +103,8 @@ height: 100%; left: 0; top: 0;"> </iframe></div>]]></content>
 <p>那么通过手电筒，你们该如何交流呢？</p>
 <hr>
 <h2 id="方法"><a href="#方法" class="headerlink" title="方法"></a>方法</h2><ol>
-<li>你们最初想到的方法是:打开手电筒的灯光，然后站在窗户边用光</li>
+<li>你们最初想到的方法是:打开手电筒的灯光，然后站在窗户边用光来画出字母，比如“O”就在空中画个圈，而“I”就是画一竖。但这个方法不太行得通，手电筒在空中圈圈点点的时候，很难在脑中组成图像。</li>
+<li></li>
 </ol>
 ]]></content>
       <categories>
