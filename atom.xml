@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>时度度的个人博客</title>
+  
+  
+  <link href="https://www.timedegree.cn/atom.xml" rel="self"/>
+  
+  <link href="https://www.timedegree.cn/"/>
+  <updated>2022-02-04T07:52:28.000Z</updated>
+  <id>https://www.timedegree.cn/</id>
+  
+  <author>
+    <name>Time_Degree</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>coq学习笔记</title>
+    <link href="https://www.timedegree.cn/2022/01/30/coq%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <id>https://www.timedegree.cn/2022/01/30/coq%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</id>
+    <published>2022-01-30T11:57:37.000Z</published>
+    <updated>2022-02-04T07:52:28.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="笔记" scheme="https://www.timedegree.cn/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="数学" scheme="https://www.timedegree.cn/tags/%E6%95%B0%E5%AD%A6/"/>
+    
+    <category term="计算机" scheme="https://www.timedegree.cn/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>编码の笔记</title>
+    <link href="https://www.timedegree.cn/2022/01/27/%E7%BC%96%E7%A0%81%E7%AC%94%E8%AE%B0/"/>
+    <id>https://www.timedegree.cn/2022/01/27/%E7%BC%96%E7%A0%81%E7%AC%94%E8%AE%B0/</id>
+    <published>2022-01-27T05:51:33.000Z</published>
+    <updated>2022-01-29T00:55:30.000Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot; title=&quot;引言&quot;&gt;&lt;/a&gt;引言&lt;/h1&gt;&lt;h2 id=&quot;编码-code&quot;&gt;&lt;a href=&quot;#编码-code&quot; class=&quot;headerlink&quot; title=&quot;编码(code):&quot;&gt;&lt;/a&gt;编码(code):&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;一种在信息传输过程中用来表述字母或数字的信号系统&lt;/li&gt;
+&lt;li&gt;由被赋予了一定主观意义的符号、字母以及单词所组成的系统，该系统可用于传输需要保密或简短的信息&lt;/li&gt;
+&lt;li&gt;一种由若干符号和规则组成的系统，用来向计算机表述指令&lt;/li&gt;
+&lt;/ol&gt;</summary>
+    
+    
+    
+    <category term="笔记" scheme="https://www.timedegree.cn/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="数学" scheme="https://www.timedegree.cn/tags/%E6%95%B0%E5%AD%A6/"/>
+    
+    <category term="计算机" scheme="https://www.timedegree.cn/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>离散数学</title>
+    <link href="https://www.timedegree.cn/2022/01/27/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/"/>
+    <id>https://www.timedegree.cn/2022/01/27/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/</id>
+    <published>2022-01-27T01:27:26.000Z</published>
+    <updated>2022-01-30T12:14:50.000Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;第一章-逻辑与证明&quot;&gt;&lt;a href=&quot;#第一章-逻辑与证明&quot; class=&quot;headerlink&quot; title=&quot;第一章 逻辑与证明&quot;&gt;&lt;/a&gt;第一章 逻辑与证明&lt;/h1&gt;&lt;h2 id=&quot;1-1-命题逻辑&quot;&gt;&lt;a href=&quot;#1-1-命题逻辑&quot; class=&quot;headerlink&quot; title=&quot;1.1 命题逻辑&quot;&gt;&lt;/a&gt;1.1 命题逻辑&lt;/h2&gt;&lt;h3 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot; title=&quot;引言&quot;&gt;&lt;/a&gt;引言&lt;/h3&gt;&lt;p&gt;逻辑规则给出数学语句的准确含义，并且用以区分数学论证的有效或无效。&lt;/p&gt;
+&lt;h3 id=&quot;1-1-1-命题&quot;&gt;&lt;a href=&quot;#1-1-1-命题&quot; class=&quot;headerlink&quot; title=&quot;1.1.1 命题&quot;&gt;&lt;/a&gt;1.1.1 命题&lt;/h3&gt;</summary>
+    
+    
+    
+    <category term="笔记" scheme="https://www.timedegree.cn/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="数学" scheme="https://www.timedegree.cn/tags/%E6%95%B0%E5%AD%A6/"/>
+    
+    <category term="计算机" scheme="https://www.timedegree.cn/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>(๑◝ᴗ◜๑) Hi!</title>
+    <link href="https://www.timedegree.cn/2022/01/26/%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D/"/>
+    <id>https://www.timedegree.cn/2022/01/26/%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D/</id>
+    <published>2022-01-26T07:47:55.000Z</published>
+    <updated>2022-01-28T15:30:08.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="生活" scheme="https://www.timedegree.cn/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+  </entry>
+  
+</feed>
