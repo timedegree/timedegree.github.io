@@ -6,7 +6,7 @@
   <link href="https://www.timedegree.cn/atom.xml" rel="self"/>
   
   <link href="https://www.timedegree.cn/"/>
-  <updated>2022-02-04T07:52:28.000Z</updated>
+  <updated>2022-02-26T12:45:52.000Z</updated>
   <id>https://www.timedegree.cn/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://www.timedegree.cn/2022/01/30/coq%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     <id>https://www.timedegree.cn/2022/01/30/coq%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</id>
     <published>2022-01-30T11:57:37.000Z</published>
-    <updated>2022-02-04T07:52:28.000Z</updated>
+    <updated>2022-02-26T12:45:52.000Z</updated>
     
     
       
@@ -73,7 +73,7 @@
     <link href="https://www.timedegree.cn/2022/01/27/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/"/>
     <id>https://www.timedegree.cn/2022/01/27/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/</id>
     <published>2022-01-27T01:27:26.000Z</published>
-    <updated>2022-01-30T12:14:50.000Z</updated>
+    <updated>2022-02-26T12:46:04.000Z</updated>
     
     
     <summary type="html">&lt;h1 id=&quot;第一章-逻辑与证明&quot;&gt;&lt;a href=&quot;#第一章-逻辑与证明&quot; class=&quot;headerlink&quot; title=&quot;第一章 逻辑与证明&quot;&gt;&lt;/a&gt;第一章 逻辑与证明&lt;/h1&gt;&lt;h2 id=&quot;1-1-命题逻辑&quot;&gt;&lt;a href=&quot;#1-1-命题逻辑&quot; class=&quot;headerlink&quot; title=&quot;1.1 命题逻辑&quot;&gt;&lt;/a&gt;1.1 命题逻辑&lt;/h2&gt;&lt;h3 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot; title=&quot;引言&quot;&gt;&lt;/a&gt;引言&lt;/h3&gt;&lt;p&gt;逻辑规则给出数学语句的准确含义，并且用以区分数学论证的有效或无效。&lt;/p&gt;
@@ -87,6 +87,8 @@
     <category term="数学" scheme="https://www.timedegree.cn/tags/%E6%95%B0%E5%AD%A6/"/>
     
     <category term="计算机" scheme="https://www.timedegree.cn/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+    <category term="manim" scheme="https://www.timedegree.cn/tags/manim/"/>
     
   </entry>
   
