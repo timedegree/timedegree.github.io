@@ -72,6 +72,11 @@ height: 100%; left: 0; top: 0;"> </iframe></div>
       </tags>
   </entry>
   <entry>
+    <title>杂记</title>
+    <url>/2022/02/27/%E6%9D%82%E8%AE%B0/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>coq学习笔记</title>
     <url>/2022/01/30/coq%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<p>从<a href="https://space.bilibili.com/470481361/?spm_id_from=333.999.0.0">99</a>那听说了coq这一函数式编程语言，故拿此页面用以做笔记。</p>
