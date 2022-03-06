@@ -1,28 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>coq学习笔记</title>
-    <url>/2022/01/30/coq%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<p>从<a href="https://space.bilibili.com/470481361/?spm_id_from=333.999.0.0">99</a>那听说了coq这一函数式编程语言，故拿此页面用以做笔记。</p>
-<hr>
-<h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><ul>
-<li><a href="https://coq-zh.github.io/SF-zh/">Software Foundation</a></li>
-</ul>
-]]></content>
-      <categories>
-        <category>笔记</category>
-      </categories>
-      <tags>
-        <tag>数学</tag>
-        <tag>计算机</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>杂记</title>
-    <url>/2022/02/27/%E6%9D%82%E8%AE%B0/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>(๑◝ᴗ◜๑) Hi!</title>
     <url>/2022/01/26/%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D/</url>
     <content><![CDATA[<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h1><p>这里是时度度（Time_Degree）哦,,这里会放一些笔记,日常什么杂七杂八的东西。当然会是随机更新，随时咕咕_(:з」∠)_.</p>
@@ -47,34 +25,6 @@
       <categories>
         <category>生活</category>
       </categories>
-  </entry>
-  <entry>
-    <title>编码の笔记</title>
-    <url>/2022/01/27/%E7%BC%96%E7%A0%81%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<h1 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h1><h2 id="编码-code"><a href="#编码-code" class="headerlink" title="编码(code):"></a>编码(code):</h2><ol>
-<li>一种在信息传输过程中用来表述字母或数字的信号系统</li>
-<li>由被赋予了一定主观意义的符号、字母以及单词所组成的系统，该系统可用于传输需要保密或简短的信息</li>
-<li>一种由若干符号和规则组成的系统，用来向计算机表述指令</li>
-</ol>
-<span id="more"></span>
-<hr>
-<h1 id="第一章-至亲密友"><a href="#第一章-至亲密友" class="headerlink" title="第一章 至亲密友"></a>第一章 至亲密友</h1><h2 id="导入"><a href="#导入" class="headerlink" title="导入"></a>导入</h2><p>考虑这样一个情形，你的好朋友就住在街的对面，在夜晚时，父母催促你们上床睡觉了，但你们还是希望和对方交流想法，<del>谁不喜欢大晚上扯淡呢</del>，并且你们没有类似手机电脑这种可以用来交流的设备。</p>
-<p>如果是在灯还亮着的时候，还可以通过手部动作来交流，但一旦父母将灯关了，这种交流也就只能停止。所以你们想到了通过手电筒来交流的方式。</p>
-<p>这是个很理想的选择，手电筒的光高度定向且不会发出声响，可以避免被家人发现。</p>
-<p>那么通过手电筒，你们该如何交流呢？</p>
-<hr>
-<h2 id="方法"><a href="#方法" class="headerlink" title="方法"></a>方法</h2><ol>
-<li>你们最初想到的方法是:打开手电筒的灯光，然后站在窗户边用光来画出字母，比如“O”就在空中画个圈，而“I”就是画一竖。但这个方法不太行得通，手电筒在空中圈圈点点的时候，很难在脑中组成图像。</li>
-<li></li>
-</ol>
-]]></content>
-      <categories>
-        <category>笔记</category>
-      </categories>
-      <tags>
-        <tag>数学</tag>
-        <tag>计算机</tag>
-      </tags>
   </entry>
   <entry>
     <title>离散数学</title>
@@ -124,6 +74,56 @@ height: 100%; left: 0; top: 0;"> </iframe></div>
         <tag>数学</tag>
         <tag>计算机</tag>
         <tag>manim</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>杂记</title>
+    <url>/2022/02/27/%E6%9D%82%E8%AE%B0/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>coq学习笔记</title>
+    <url>/2022/01/30/coq%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<p>从<a href="https://space.bilibili.com/470481361/?spm_id_from=333.999.0.0">99</a>那听说了coq这一函数式编程语言，故拿此页面用以做笔记。</p>
+<hr>
+<h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><ul>
+<li><a href="https://coq-zh.github.io/SF-zh/">Software Foundation</a></li>
+</ul>
+]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+      <tags>
+        <tag>数学</tag>
+        <tag>计算机</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>编码の笔记</title>
+    <url>/2022/01/27/%E7%BC%96%E7%A0%81%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<h1 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h1><h2 id="编码-code"><a href="#编码-code" class="headerlink" title="编码(code):"></a>编码(code):</h2><ol>
+<li>一种在信息传输过程中用来表述字母或数字的信号系统</li>
+<li>由被赋予了一定主观意义的符号、字母以及单词所组成的系统，该系统可用于传输需要保密或简短的信息</li>
+<li>一种由若干符号和规则组成的系统，用来向计算机表述指令</li>
+</ol>
+<span id="more"></span>
+<hr>
+<h1 id="第一章-至亲密友"><a href="#第一章-至亲密友" class="headerlink" title="第一章 至亲密友"></a>第一章 至亲密友</h1><h2 id="导入"><a href="#导入" class="headerlink" title="导入"></a>导入</h2><p>考虑这样一个情形，你的好朋友就住在街的对面，在夜晚时，父母催促你们上床睡觉了，但你们还是希望和对方交流想法，<del>谁不喜欢大晚上扯淡呢</del>，并且你们没有类似手机电脑这种可以用来交流的设备。</p>
+<p>如果是在灯还亮着的时候，还可以通过手部动作来交流，但一旦父母将灯关了，这种交流也就只能停止。所以你们想到了通过手电筒来交流的方式。</p>
+<p>这是个很理想的选择，手电筒的光高度定向且不会发出声响，可以避免被家人发现。</p>
+<p>那么通过手电筒，你们该如何交流呢？</p>
+<hr>
+<h2 id="方法"><a href="#方法" class="headerlink" title="方法"></a>方法</h2><ol>
+<li>你们最初想到的方法是:打开手电筒的灯光，然后站在窗户边用光来画出字母，比如“O”就在空中画个圈，而“I”就是画一竖。但这个方法不太行得通，手电筒在空中圈圈点点的时候，很难在脑中组成图像。</li>
+<li></li>
+</ol>
+]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+      <tags>
+        <tag>数学</tag>
+        <tag>计算机</tag>
       </tags>
   </entry>
 </search>
