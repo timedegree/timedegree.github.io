@@ -5,7 +5,7 @@
     <url>/2022/01/26/%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D/</url>
     <content><![CDATA[<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h1><p>这里是时度度（Time_Degree）哦,,这里会放一些笔记,日常什么杂七杂八的东西。当然会是随机更新，随时咕咕_(:з」∠)_.</p>
 <hr>
-<center>新人up<a href = "https://space.bilibili.com/10077094">时度度</a> | 沃沃头 | 高中生 | OIer(曾)</center>
+<center>新人up<a href = "https://space.bilibili.com/10077094">时度度</a> | <a href = "https://space.bilibili.com/53456">沃沃头</a> | 高中生 | OIer(曾)</center>
 
 <p><br/></p>
 <center><a href = "https://www.16personalities.com/ch/enfp-%E4%BA%BA%E6%A0%BC">ENFP-A</a> </center>
@@ -74,6 +74,85 @@ height: 100%; left: 0; top: 0;"> </iframe></div>
         <tag>数学</tag>
         <tag>计算机</tag>
         <tag>manim</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>塔语の学习手册</title>
+    <url>/2022/04/05/%E5%A1%94%E8%AF%AD/</url>
+    <content><![CDATA[<p>无意之间发现了<a href="https://music.163.com/#/song?id=643625">塔语的歌</a>，觉得好汀，实际上早在<a href="https://space.bilibili.com/53456">warma</a>那就知道了塔语。但一直没有太过在意，感觉挺好玩的。那就来系统上的学习一下吧。</p>
+<h1 id="一-塔语介绍"><a href="#一-塔语介绍" class="headerlink" title="一. 塔语介绍"></a>一. 塔语介绍</h1><h2 id="1-塔语的由来"><a href="#1-塔语的由来" class="headerlink" title="1. 塔语的由来"></a>1. 塔语的由来</h2><span id="more"></span>
+<p><strong>塔语</strong>，亦称<strong>hymmnos语</strong>，是由土屋晓（Akira Tsuchiya）创作的一种自制语言，用于游戏Ar tonelico（魔塔大陆）全系列中。在游戏中，该语言主要是作为<strong>诗魔法语言</strong>使用(hymmnos在游戏中的词义也正是“<strong>诗、诗歌</strong>”)。<br>游戏中的日常生活使用的是叫做<strong>Shell</strong>的其他语言(<del>是不是感觉很熟悉</del>)，Hymmnos对一般人来说则是古代语，也很少被<strong>诗魔法少女</strong>(レーヴァテイル)以外的人使用。诗魔法少女会使用该语言进行诸如咒文、隔壁操作、塔的管理等操作。<br>官方给出的词典并没有涵盖所有单词，且词汇大多与情感、神明、自然、信仰、救赎等有关。可以说是非常适合圣歌等祈祷的歌曲使用的。而在作品外大部分都是以拉丁字符所写的歌曲，但所表述的意义与原塔语无异，故而这种以拉丁字符所构成的塔语才是本文所讲的主要内容，不过过少的单词量难以用其进行日常语言的交流，但可以像游戏内一样做诗歌。<br>一般语言的情感表达是根据句调和音调来表达，而hymmnos语是根据想音来表达自己的情感，不需要借助说话者自身的语调。<br>Hymmnos的用途是<strong>构成咒文</strong>，使歌姬能与塔连接后，通过塔所供给的导力，实现自己的愿望。咒文分为下列3种：</p>
+<ol>
+<li><strong>Hymmnos Extract</strong> – 用于对塔进行控制，使用时需要身份认证，只有拥有特定的Hymmnos code的歌姬可以使用。对于第一世代的Origin歌姬及第二世代的β-纯血种，都固定拥有特定的文字列hymmnos code。可以控制天气，重力，也有可以撼天动地的魔法，以及塔各种环境的控制，塔守卫者(Guardian)的控制等。游戏中的hymmnos即指的是Hymmnos Extract。</li>
+<li><strong>Hymmnos Word</strong> – 也就是所谓的“诗魔法”，所有歌姬均可以使用，通过与自身的Cosmosphere连接，将自己的愿望具现化的过程。Word的多彩程度取决于歌姬自身内心的丰富程度。因此可以由歌姬创作，其威力取决于愿望表达的强烈程度及塔对愿望的回应，而不是具体的文字。</li>
+<li><strong>Hymmnos Spell</strong> – 咒语，不能作为诗使用，其最大特征就是并不由歌姬歌唱，而是为了和歌姬或者塔进行连接，以及进行简单的控制时使用，文法与Word相同。属于在塔内已经预设好的文字列，因此每座塔均不同。人类和歌姬均可咏唱使用。常用于门禁认证，extract的下载等。</li>
+</ol>
+<p>在游戏内，hymmnos语非常古老，早于第一纪时发现音魔法之前便已存在，祈祷师使用的一种被称为“月奏”的咒文便是其前身。在塔出现后，Hymmnos所具有的精确表达歌唱者情感的特点，成为最适合控制塔，与塔进行通信的语言，而被格式化成为hymmnos。随着hymmnos的发展，各地域各教派的单词及格式均发生了细微的变化。</p>
+<hr>
+<h2 id="2-音律介绍"><a href="#2-音律介绍" class="headerlink" title="2. 音律介绍"></a>2. 音律介绍</h2><h3 id="2-1-共通语（正纯律）"><a href="#2-1-共通语（正纯律）" class="headerlink" title="2.1 共通语（正纯律）"></a>2.1 共通语（正纯律）</h3><ul>
+<li>Soul shell的塔管理局所认定的通用标准，未被认定的hymmnos并非无法控制该塔。因此往往会存在正纯律与其它律的混用情况。</li>
+</ul>
+<h3 id="2-2-古“月奏”律-クルトシエール律"><a href="#2-2-古“月奏”律-クルトシエール律" class="headerlink" title="2.2 古“月奏”律(クルトシエール律)"></a>2.2 古“月奏”律(クルトシエール律)</h3><ul>
+<li>是古时祈祷师的咒文，是hymmnos的起点，现代大多已被忘记，留下的单词很少</li>
+</ul>
+<h3 id="2-3-Cluster律"><a href="#2-3-Cluster律" class="headerlink" title="2.3 Cluster律"></a>2.3 Cluster律</h3><ul>
+<li>第一纪时，行星的背面的soul cluster地区确立的音律。可以认为是正纯律的方言，实际效果差别不大。现在在ar-tonelico周围已不存在该律的使用者，但在世界的某处，可能还存在着使用该律的colony。</li>
+</ul>
+<h3 id="2-4-α律"><a href="#2-4-α律" class="headerlink" title="2.4 α律"></a>2.4 α律</h3><ul>
+<li>世界仅有的三位歌姬Origin能在自己心中编织出的最优化的hymmnos单词，这样得来的单词即“α律”。但是没有通用性，在非该Origin管理的塔则无法发挥最大的威力，甚至由于其他塔没有所对应的机能而无效。其他律是在塔内既存的频谱上编织出所对应的单词，而α律则是塔的机能扩张后而编织的对应单词。</li>
+</ul>
+<h3 id="2-5-古metafalis律"><a href="#2-5-古metafalis律" class="headerlink" title="2.5 古metafalis律"></a>2.5 古metafalis律</h3><ul>
+<li>第一纪初期，于2000年左右席卷世界的圣教国meta falis诞生的不同律。一个单词所拥有的音能远高于正纯律的平均值。诞生该高性能音律的土壤则是该地盛行的精神力至上思想。此地盛行使用月奏进行诗的修行及开发，不断磨练自己的精神，来编织出更强的诗。由于这种思想的盛行，阻碍了将诗科学化的进程，进入3000年代后文化急速落后。通过与Soul Shell的关系，将metafalis律录入了诗魔法Server。</li>
+</ul>
+<h3 id="2-6-新约パスタリエ"><a href="#2-6-新约パスタリエ" class="headerlink" title="2.6 新约パスタリエ"></a>2.6 新约パスタリエ</h3><ul>
+<li>于3400年左右，在metafalis编织出的新言语。拥有被称为Infel-Phira的不同魔法Server，只有连接该Server的歌姬（I.P.D）才可使用。与其他语言，如文法与单词方面基本没有互换性。诗的运行命令也不是以EXEC_开头而是以METHOD_开头。但是通过塔的模拟功能，表面上其他律也可以使用，但在Infel-Phira内部则翻译为新约。文法则和其他hymmnos完全不同。</li>
+</ul>
+<hr>
+<h2 id="3-语句分类"><a href="#3-语句分类" class="headerlink" title="3. 语句分类"></a>3. 语句分类</h2><h3 id="3-1-想音句"><a href="#3-1-想音句" class="headerlink" title="3.1 想音句"></a>3.1 想音句</h3><ul>
+<li>Hymmnos中最基本的语句种类，具体参看想音句语法。</li>
+</ul>
+<h4 id="3-1-1-想音"><a href="#3-1-1-想音" class="headerlink" title="3.1.1 想音"></a>3.1.1 想音</h4><ul>
+<li>构成想音句的一个成分，用以表达情感，简写为E.S.（emotion sound）。</li>
+</ul>
+<h3 id="3-2-感音句"><a href="#3-2-感音句" class="headerlink" title="3.2 感音句"></a>3.2 感音句</h3><ul>
+<li>Hymmnos中另一种语句，和想音句有不同的语法，具体参看感音句语法。</li>
+</ul>
+<h4 id="3-2-1-感音动词"><a href="#3-2-1-感音动词" class="headerlink" title="3.2.1 感音动词"></a>3.2.1 感音动词</h4><ul>
+<li>感音句中的核心动词，简写为E.V.（emotion verb）。</li>
+</ul>
+<h4 id="3-2-2-音律"><a href="#3-2-2-音律" class="headerlink" title="3.2.2 音律"></a>3.2.2 音律</h4><ul>
+<li>音律是Hymmnos语里特有的现象，每个词有一个所属音律的分类，表明该词的年代或者地区，不同音律的词之间的可能会有冲突因此不能连用，具体详细的资料参看感音句语法。</li>
+</ul>
+<h3 id="3-3-班氏吟唱句"><a href="#3-3-班氏吟唱句" class="headerlink" title="3.3 班氏吟唱句"></a>3.3 班氏吟唱句</h3><ul>
+<li>即Binasphere Chorus 的翻译，Binasphere原意是两个世界，Binasphere Chorus即双重合唱，不过考虑到接受程度最终选择了班氏吟唱句作为翻译。因为是音译所以并不是一个姓班的人创造的。</li>
+</ul>
+<h3 id="3-4-Carmena-Foreluna"><a href="#3-4-Carmena-Foreluna" class="headerlink" title="3.4 Carmena Foreluna"></a>3.4 Carmena Foreluna</h3><ul>
+<li>也写作 律史前月读（律史前月読 risshizentsukuyomi）严格来说不能算Hymmnos语，是在Hymmnos语出现之前（游戏世界观历史），用于占卜的声音。可以用于推知Hymmnos中单词的词源。</li>
+</ul>
+<h3 id="3-5-Ar-Ciela"><a href="#3-5-Ar-Ciela" class="headerlink" title="3.5 Ar-Ciela"></a>3.5 Ar-Ciela</h3><ul>
+<li>星语，比Carmena Foreluna时间更早的行星间交流的语言，发声范围可以远超人耳的识别范围。</li>
+</ul>
+<hr>
+<h2 id="4-省流版"><a href="#4-省流版" class="headerlink" title="4. 省流版"></a>4. 省流版</h2><p>Hymmnos语出自游戏魔塔大陆，意为诗歌，因此Hymmnos语又称为诗歌语，在游戏中作为诗魔法语言给诗魔法少女使用。<br>有想音句，感音句，班氏吟唱句等形式。</p>
+<hr>
+<h1 id="二-塔语字母表"><a href="#二-塔语字母表" class="headerlink" title="二. 塔语字母表"></a>二. 塔语字母表</h1><h2 id="1-字母表"><a href="#1-字母表" class="headerlink" title="1. 字母表"></a>1. 字母表</h2><p><img src="https://i.bmp.ovh/imgs/2022/04/05/c42e4211cf1ea66a.png" alt="塔语字母表"></p>
+<h2 id="2-字型"><a href="#2-字型" class="headerlink" title="2. 字型"></a>2. 字型</h2><p>Hymmnos文字的字形是与游戏世界中每个音的能量相关的。文字的中心是<strong>音源</strong>，然后在周围放置<strong>圆弧</strong>、<strong>垂直水平线</strong>、<strong>放射线</strong>等来构成一个完整的文字。这些放置的图案也是有意义的，圆弧表示<strong>安详的α波</strong>、垂直水平线表示<strong>紧张的β波</strong>、放射线表示<strong>刺激的γ波</strong>。</p>
+<h2 id="3-组成"><a href="#3-组成" class="headerlink" title="3. 组成"></a>3. 组成</h2><p>Hymmnos文字（数字和记号除外）与英文一样有26个字母，分为6大主音元素与20小素。</p>
+<ul>
+<li><strong>六大元音音素</strong>  六大主音元素是在英语元音字母的基础上加了N,即为A、I、U、E、O、N这六个字母。同时，这几个字母称为<br>A：<strong>力音</strong>|I：<strong>圣音</strong>|U：<strong>憎音</strong>|E：<strong>爱音</strong>|O：<strong>邪音</strong>|N：<strong>无音</strong></li>
+<li><strong>二十小素</strong> 是除去6个主音元素后的所剩下的音。根据月奏们研究律史前月读时的发现，<strong>这些文字与日语存在对等意义</strong>，但目前这还不是一个完全确定的理论。另外，当文字互相组合时，它们的含义是可能产生变化的。</li>
+</ul>
+<hr>
+<h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><ul>
+<li><a href="https://pan.baidu.com/s/1zLEmTmESt71rha_pqiRF1Q">Hymmnos语语法教程</a></li>
+<li><a href="https://zh.moegirl.org.cn/%E5%A1%94%E8%AF%AD">塔语 萌百</a></li>
+</ul>
+]]></content>
+      <tags>
+        <tag>语言</tag>
+        <tag>游戏</tag>
+        <tag>[object Object]</tag>
+        <tag>笔记</tag>
       </tags>
   </entry>
   <entry>
