@@ -88,7 +88,6 @@ height: 100%; left: 0; top: 0;"> </iframe></div>
 <li><strong>Hymmnos Spell</strong> – 咒语，不能作为诗使用，其最大特征就是并不由歌姬歌唱，而是为了和歌姬或者塔进行连接，以及进行简单的控制时使用，文法与Word相同。属于在塔内已经预设好的文字列，因此每座塔均不同。人类和歌姬均可咏唱使用。常用于门禁认证，extract的下载等。</li>
 </ol>
 <p>在游戏内，hymmnos语非常古老，早于第一纪时发现音魔法之前便已存在，祈祷师使用的一种被称为“月奏”的咒文便是其前身。在塔出现后，Hymmnos所具有的精确表达歌唱者情感的特点，成为最适合控制塔，与塔进行通信的语言，而被格式化成为hymmnos。随着hymmnos的发展，各地域各教派的单词及格式均发生了细微的变化。</p>
-<hr>
 <h2 id="2-音律介绍"><a href="#2-音律介绍" class="headerlink" title="2. 音律介绍"></a>2. 音律介绍</h2><h3 id="2-1-共通语（正纯律）"><a href="#2-1-共通语（正纯律）" class="headerlink" title="2.1 共通语（正纯律）"></a>2.1 共通语（正纯律）</h3><ul>
 <li>Soul shell的塔管理局所认定的通用标准，未被认定的hymmnos并非无法控制该塔。因此往往会存在正纯律与其它律的混用情况。</li>
 </ul>
@@ -107,7 +106,6 @@ height: 100%; left: 0; top: 0;"> </iframe></div>
 <h3 id="2-6-新约パスタリエ"><a href="#2-6-新约パスタリエ" class="headerlink" title="2.6 新约パスタリエ"></a>2.6 新约パスタリエ</h3><ul>
 <li>于3400年左右，在metafalis编织出的新言语。拥有被称为Infel-Phira的不同魔法Server，只有连接该Server的歌姬（I.P.D）才可使用。与其他语言，如文法与单词方面基本没有互换性。诗的运行命令也不是以EXEC_开头而是以METHOD_开头。但是通过塔的模拟功能，表面上其他律也可以使用，但在Infel-Phira内部则翻译为新约。文法则和其他hymmnos完全不同。</li>
 </ul>
-<hr>
 <h2 id="3-语句分类"><a href="#3-语句分类" class="headerlink" title="3. 语句分类"></a>3. 语句分类</h2><h3 id="3-1-想音句"><a href="#3-1-想音句" class="headerlink" title="3.1 想音句"></a>3.1 想音句</h3><ul>
 <li>Hymmnos中最基本的语句种类，具体参看想音句语法。</li>
 </ul>
@@ -132,7 +130,6 @@ height: 100%; left: 0; top: 0;"> </iframe></div>
 <h3 id="3-5-Ar-Ciela"><a href="#3-5-Ar-Ciela" class="headerlink" title="3.5 Ar-Ciela"></a>3.5 Ar-Ciela</h3><ul>
 <li>星语，比Carmena Foreluna时间更早的行星间交流的语言，发声范围可以远超人耳的识别范围。</li>
 </ul>
-<hr>
 <h2 id="4-省流版"><a href="#4-省流版" class="headerlink" title="4. 省流版"></a>4. 省流版</h2><p>Hymmnos语出自游戏魔塔大陆，意为诗歌，因此Hymmnos语又称为诗歌语，在游戏中作为诗魔法语言给诗魔法少女使用。<br>有想音句，感音句，班氏吟唱句等形式。</p>
 <hr>
 <h1 id="二-塔语字母表"><a href="#二-塔语字母表" class="headerlink" title="二. 塔语字母表"></a>二. 塔语字母表</h1><h2 id="1-字母表"><a href="#1-字母表" class="headerlink" title="1. 字母表"></a>1. 字母表</h2><p><img src="https://i.bmp.ovh/imgs/2022/04/05/c42e4211cf1ea66a.png" alt="塔语字母表"></p>
@@ -143,16 +140,206 @@ height: 100%; left: 0; top: 0;"> </iframe></div>
 <li><strong>二十小素</strong> 是除去6个主音元素后的所剩下的音。根据月奏们研究律史前月读时的发现，<strong>这些文字与日语存在对等意义</strong>，但目前这还不是一个完全确定的理论。另外，当文字互相组合时，它们的含义是可能产生变化的。</li>
 </ul>
 <hr>
+<h1 id="三-想音语法"><a href="#三-想音语法" class="headerlink" title="三. 想音语法"></a>三. 想音语法</h1><h2 id="1-引子"><a href="#1-引子" class="headerlink" title="1. 引子"></a>1. 引子</h2><p>大多数hymmnos语都来自于魔塔大陆世界的魔法咒语，所以其语言要讲究说话者的内心情感，却不是通过语调与句调，而是直接用词语来表现，下面我们看个例子。</p>
+<ul>
+<li>例句：was yea ra chs hymmnos mea（想音句）<br>翻译：我很高兴将自己变成歌</li>
+<li>例句：hEmmErYE（感音句）<br>翻译：我很高兴将自己化为一曲乐章</li>
+<li>例句：WAS EN YEx CHx A SEE RA CHS FWx HYMMx AL NOS FWAL YOR YOR EXEC hymme 2X1/0&gt;&gt;010101001010101（班氏吟唱句）<br>翻译：我欢心的想把你融入歌中，甘愿化为你苍然之翼</li>
+</ul>
+<p>一般来说，hymmnos语的句子分为想音句，感音句，班氏吟唱句这三种。其中:</p>
+<ol>
+<li>想音句：不含有E.V（感音词语）和班氏吟唱符号的句子，大多数都是前三个感情提示词（又称想音）所引导。少数没有想音引导。</li>
+<li>感音句：含有感音词语的句子，这类句子大多数很短，却能表达大量的信息。其中在一个句子中已经存在E.V的情况下，不可再出现想音和班氏吟唱符号。</li>
+<li>班氏吟唱句：含有班氏吟唱符号的句子，作用是用一个句子来表达两个想音句所表达的意思。其中句子里不可再出现感音词。</li>
+</ol>
+<p>这三种句子的混合运用构成了hymmnos语独特的语句体系和语法体系。</p>
+<h2 id="2-想音"><a href="#2-想音" class="headerlink" title="2. 想音"></a>2. 想音</h2><p>Hymmnos语中的想音句，大多数都是以想音所引导，想音的作用是表达说话者本身的情感，这就避免了说话者用语调或者句调来表达情感，本身就是hymmnos语一大亮点。</p>
+<ul>
+<li>例句：was yea ra chs hymmnos mea<br>翻译：我很高兴将自己变成歌</li>
+</ul>
+<p>句子里面的was yea ra就叫做想音，提示感情，表达咏唱者的情感。其中was称之为第一想音，yea称之为第二想音，ra称之为第三想音。</p>
+<h3 id="2-1-第一想音"><a href="#2-1-第一想音" class="headerlink" title="2.1 第一想音"></a>2.1 第一想音</h3><p>作用是表示的是感情的强烈程度，分为5种词语：</p>
+<ol>
+<li>Rrha – 入迷，很，非常，（语气比was强烈）</li>
+<li>Was – 很；非常</li>
+<li>Wee – 颇；相当</li>
+<li>Fou – 有点；一点</li>
+<li>Ma – 平常的状态</li>
+<li>Nn – 没精神的状态</li>
+</ol>
+<h3 id="2-2-第二想音"><a href="#2-2-第二想音" class="headerlink" title="2.2 第二想音"></a>2.2 第二想音</h3><p>作用是表示的是吟唱者的感情类型，分为以下这些情感：</p>
+<ol>
+<li>i – 焦急的</li>
+<li>yea – 高兴的</li>
+<li>waa – 高兴的（I纪神圣语）</li>
+<li>paks – 紧张的；激动的；焦躁的</li>
+<li>num – 无</li>
+<li>ki – 认真的、集中的</li>
+<li>wol – 勇往直前、热血的</li>
+<li>apea – 沉浸于幸福中（I纪前古代语）</li>
+<li>au – 悲伤的    </li>
+<li>granme – 有勇气，希望保护某人</li>
+<li>touwaka – 渴望的、隐藏着心情的</li>
+<li>quel – 恳切的；必死的</li>
+<li>yant – 恐慌的（I纪神圣语）</li>
+<li>guwo – 发怒的；愤怒的</li>
+<li>jyel – 寂寞的</li>
+<li>zweie – 真挚的；隐藏着决定的</li>
+</ol>
+<h3 id="2-3-第三想音"><a href="#2-3-第三想音" class="headerlink" title="2.3 第三想音"></a>2.3 第三想音</h3><p>表示的是吟唱者对于感情是否持续或结束的感受，分为以下这些：</p>
+<ol>
+<li>ga – （我）希望尽快结束的</li>
+<li>ra - （我）希望持续的</li>
+<li>erra - （我）希望永远地持续的</li>
+<li>wa – 这没有什么关系，我会接受这个情况</li>
+<li>gaya – 我再也不想回到之前的状态了</li>
+<li>gagis – 自己怎么样也无所谓</li>
+</ol>
+<p>三种想音的混合搭配构成了想音句异样的感情表达方式，也构成了一般想音句的思想中心，我们既可以把它看做是吟唱者当时的感受，也可以间接映射出当时的语境。比如：</p>
+<ul>
+<li>“Rrha zweie ra”，此时吟唱者是一种及其真挚，执着的状态，可译为“恳切”。</li>
+<li>“was yant ga”，而此时吟唱者是一种愤怒，焦急的心态。可译为“无法容忍”。</li>
+</ul>
+<p>前三个想音的翻译必须三个音同时看，不能只盯一个或两个，而忽略另外一个直接翻译。</p>
+<h2 id="3-想音的基本句型"><a href="#3-想音的基本句型" class="headerlink" title="3. 想音的基本句型"></a>3. 想音的基本句型</h2><p>想音是想音句的心脏，那么想音句是如何表意的呢？想音句的表意分为两种类型：<strong>自我型</strong>，<strong>非我型</strong></p>
+<h3 id="3-1-自我型"><a href="#3-1-自我型" class="headerlink" title="3.1 自我型"></a>3.1 自我型</h3><p>自我型中的主语一般是我，故通常都省略不写，表达的自己的动作与感情，在hymmnos语里面不存在时态，一般自我型的时态都是现在时。自我型的表达结构通常是这样的：</p>
+<p>【想音】+【动词】+【动词指定的对象】+【宾语】</p>
+<p>例如上面举的例子：</p>
+<ul>
+<li>Was yea ra chs hymmnos mea<br>我很高兴将自己变成歌</li>
+</ul>
+<p>其中“was yea ra”为想音部分，chs为动词，意思是“转变”，hymmnos为“chs”的对象，意思为“诗歌”，mea为宾语，意思为“自己”。</p>
+<p>自我型表达中句子的主语是吟唱者本人，即“我”，一般都省略（所以句子看起来像是缺了主语），翻译是注意宾语与对象的区别，不要弄混。</p>
+<h3 id="3-2-非我型"><a href="#3-2-非我型" class="headerlink" title="3.2 非我型"></a>3.2 非我型</h3><p>非我型表达一般用于主语不是吟唱者本人时候的表达，其间又分为：<strong>半非型</strong>、<strong>全非型</strong>。</p>
+<h4 id="3-2-1-半非型"><a href="#3-2-1-半非型" class="headerlink" title="3.2.1 半非型"></a>3.2.1 半非型</h4><p>半非型是指吟唱者本人完成一个动作，而后另一个对象完成另一个动作，即主语分为两部分，每一部分动词又不一样，其结构如下：</p>
+<p>【想音部分】+【动词1】+ rre +【主语】+【动词2】+【对象】+【复合句或其他】</p>
+<p>例如下面：</p>
+<ul>
+<li>Wee ki ra hyma rre sasye pagle wart<br>我很认真听这位少女讲话</li>
+</ul>
+<p>其中rre是主语提示词，其后紧接主语，虽然并不是整个句子的主语。Hyma意思是“听”，sasye是少女的意思，pagle解释为“说”wart表示“言语”。</p>
+<p>值得注意的是半非型虽然翻译时候主语依旧为“我”即吟唱者本人，但在hymmnos语里面并不是真正的主语（类似于强调另一部分的主语）。所以在此提醒各位在翻译半非型语句时要搞清楚rre后面的词与“我“之间的关系，以免误翻。</p>
+<h4 id="3-2-2-全非型"><a href="#3-2-2-全非型" class="headerlink" title="3.2.2 全非型"></a>3.2.2 全非型</h4><p>全非型则完全是主语不是“我”这一情况，此时想音词表达的是rre后面真正主语的感情，结构如下</p>
+<p>【想音】+ rre +【主语】+【动词】+【对象】+【从句或者其他】</p>
+<p>例如：</p>
+<ul>
+<li>Was yea ra rre hyma hymme<br>小鸟高兴的鸣叫</li>
+<li>Was ki ra rre lasye linen sasye<br>少年真诚的对少女说些什么</li>
+</ul>
+<p>上面一共举了两个例子，第一个实在没有对象的情况下，其中hymme意为鸣叫，既可作动词，又可以作名词。第二个是在有施动对象的情况下，lasye意思是少年，sasye意思为少女。其中hyma与lasye分别为两句的主语。此时想音是表达这两主语此时的感情。<br>注意，rre在一个句子中只能用一次。</p>
+<p>非我型表达翻译是要注意以下几点：</p>
+<ol>
+<li>弄清楚该句是半非型还是全非型（看rre前是否有动词）</li>
+<li>半非型翻译时注意区分“我”的动作和rre后面主语的动作，翻译此句时可以参照英语里面从句的翻译</li>
+</ol>
+<p>全非型翻译时注意按语法顺序翻译，同参照类似英语从句的翻译。</p>
+<h2 id="4-想音的特殊句型"><a href="#4-想音的特殊句型" class="headerlink" title="4. 想音的特殊句型"></a>4. 想音的特殊句型</h2><p>   以上是含想音的两种基本句型，其实出去这两种句型之外，还有其他的句型，只不过并不常用，这里只做粗略介绍一下。</p>
+<h3 id="4-1-特殊句型1"><a href="#4-1-特殊句型1" class="headerlink" title="4.1 特殊句型1"></a>4.1 特殊句型1</h3><p>第一种句型特别之处是将主语移后，并用逗号隔开，其强调作用。</p>
+<ul>
+<li>例句：Nn num gaya na ieeya crushue anw dornpica, kaguya<br>翻译：kaguya一点不想用希望纺织成果实</li>
+</ul>
+<p>注：ieeya，希望，na，否定，否定紧接在后的词，一般为动词，而ieeya为名词，这里可以理解为“不想用希望”</p>
+<h3 id="4-2特殊句型2"><a href="#4-2特殊句型2" class="headerlink" title="4.2特殊句型2"></a>4.2特殊句型2</h3><p>第二中句型一般是讲故事中使用，也并不常用。类似于自我型感音句</p>
+<ul>
+<li>例句：Was yea ra vit bautifal faura anw dornpica en 1 dyyal nuih bexm<br>翻译：我很高兴看到美丽的小鸟和果实，然后夜晚降临</li>
+</ul>
+<p>这种句子有种很浓重的故事，传说意味，翻译是最好将其意味体现出来。</p>
+<h3 id="4-3特殊句型3"><a href="#4-3特殊句型3" class="headerlink" title="4.3特殊句型3"></a>4.3特殊句型3</h3><p>除了含想音的想音句，还有另一种不含想音，却是想音句的句子，一般在想音句里面，这种句型占上了40%，也算是重要的句型了，一般这种句子里面不存在想音，但是语法用的是一般英语的陈述语法，所以通常翻译起来并不是很难</p>
+<ul>
+<li>例句：Faura yerwe murfan anw sol ciel<br>翻译：小鸟用鸣叫思考光明的世界<br>其中yerwe——鸣叫，murfan——思考，这个类句子就是套用一般的英语语法，所以翻译起来并不困难。</li>
+</ul>
+<p>总体来说，想音句作为hymmnos语里面的基本句型，在hymmnos语里面的作用是必不可缺的，hymmnos语80%以上的句子都是想音句，懂得了想音句的情况，基本上可以正常翻译塔语的大部分东西了。</p>
+<h2 id="5-补充"><a href="#5-补充" class="headerlink" title="5. 补充"></a>5. 补充</h2><h3 id="5-1-其中塔语中表示同一人称时，根据人称在句中所处位置不同，要做相应的变换，变换如下："><a href="#5-1-其中塔语中表示同一人称时，根据人称在句中所处位置不同，要做相应的变换，变换如下：" class="headerlink" title="5.1 其中塔语中表示同一人称时，根据人称在句中所处位置不同，要做相应的变换，变换如下："></a>5.1 其中塔语中表示同一人称时，根据人称在句中所处位置不同，要做相应的变换，变换如下：</h3><div class="table-container">
+<table>
+<thead>
+<tr>
+<th>人称</th>
+<th>宾格</th>
+<th>主格</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>you</td>
+<td>yor</td>
+<td>yorr</td>
+</tr>
+<tr>
+<td>you (plural)</td>
+<td>yora</td>
+<td>yorra</td>
+</tr>
+<tr>
+<td>he / him</td>
+<td>hes</td>
+<td>herr</td>
+</tr>
+<tr>
+<td>they / them (masculine)</td>
+<td>hers</td>
+<td>herra</td>
+</tr>
+<tr>
+<td>she / her</td>
+<td>has</td>
+<td>harr</td>
+</tr>
+<tr>
+<td>they / them (feminine)</td>
+<td>hars</td>
+<td>harra</td>
+</tr>
+<tr>
+<td>we / us</td>
+<td>mean</td>
+<td>merra</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>一般来说，如果人称前面有rre，或者做主语时候，要将其变成主格。作宾语或者由anw（宾语提示词）引导时候，要将其变成宾格.</p>
+<ul>
+<li>例1：Was yea ra chs hymmnos yor<br>我很高兴将你变成歌【此时you处在宾语的位置上】</li>
+<li>例2：Wee ki ra rre yorr pagle wart<br>你很执着的絮叨些什么【此时you处在主语的位置上】</li>
+</ul>
+<h3 id="5-2-附属名词的表达"><a href="#5-2-附属名词的表达" class="headerlink" title="5.2 附属名词的表达"></a>5.2 附属名词的表达</h3><p>附属名词表达首先要弄清楚两名词之间的附属关系（即A是B的XX等，在hymmnos语中很重要，没理解透很容易犯错误），再其次就是表达的结构。结构有两种，下面举个例子。</p>
+<ul>
+<li>翻译中文：鸟之诗<br>其中鸟（faura），诗歌（hymmnos）</li>
+</ul>
+<p>第一种结构为：<strong>B +oz +A</strong>  （其中B是A的附属名词）。</p>
+<p>所以上面可以翻译为<strong>hymmnos oz faura</strong>。</p>
+<p>第二种结构为：<strong>A+B</strong>   </p>
+<p>所以用第二种结构可以翻译为<strong>faura hymmnos</strong>。其中B可以为名词，动词等（例如EXEC_COSMOFLIPS中的chyet oz omnis【万物之择】，chyet就是动词）</p>
+<p>如果表达的是关于“you”或者“I”的附属名词时，将要表达的附属物移前，后面紧接着用“yor”或者“mea”。</p>
+<p>例如：</p>
+<ul>
+<li>sarla mea【我的歌声】</li>
+<li>hyzik yor【你的身体】</li>
+</ul>
+<h3 id="5-3-形容词"><a href="#5-3-形容词" class="headerlink" title="5.3 形容词"></a>5.3 形容词</h3><p>形容词我们并不陌生了，放在名词或者动词前。不过这里要提醒的是第二想音也可以作为形容词，当用作形容词是，感音句无想音词的禁令就无效了，也就是可以用第二想音用于感音句中。</p>
+<ul>
+<li>例：tyui frawr【小塔】</li>
+</ul>
+<h3 id="5-4-介词短语"><a href="#5-4-介词短语" class="headerlink" title="5.4 介词短语"></a>5.4 介词短语</h3><p>介词短语的使用是参照英文语法使用。所以在这里就不做过多的介绍了。</p>
+<ul>
+<li>例：Was yea erra melenas tes ar ciel<br>我很高兴将自己的爱给予苍穹。</li>
+</ul>
+<p>其中tes就是介词，意思和英语中“to”相近。Ciel意思为苍穹。<br>再有：</p>
+<ul>
+<li>won dor【在地表上】</li>
+<li>ween kapa【在水中】</li>
+</ul>
 <h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><ul>
 <li><a href="https://pan.baidu.com/s/1zLEmTmESt71rha_pqiRF1Q">Hymmnos语语法教程</a></li>
 <li><a href="https://zh.moegirl.org.cn/%E5%A1%94%E8%AF%AD">塔语 萌百</a></li>
 </ul>
 ]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
       <tags>
         <tag>语言</tag>
         <tag>游戏</tag>
-        <tag>[object Object]</tag>
-        <tag>笔记</tag>
       </tags>
   </entry>
   <entry>
